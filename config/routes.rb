@@ -1,4 +1,11 @@
 Richard::Application.routes.draw do
+  
+   root :to => "pages#home"
+    match '/contact', :to => 'pages#contact'
+     match '/project',   :to => 'pages#project'
+     match '/resume',    :to => 'pages#resume'
+     match '/home',  :to => 'pages#home'
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
