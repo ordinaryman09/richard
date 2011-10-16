@@ -181,7 +181,7 @@ textarea {
  * Basic and global styles for generating a grid system, structural layout, and page templates
  * ------------------------------------------------------------------------------------------- */
 html, body {
-  background-image:url('/images/simple.jpg');
+  background-image:url('/images/simple4.jpg');
 }
 body {
   margin: 0;
@@ -2387,7 +2387,7 @@ padding-top: 70px;
 	font-size : 150%;
 	width: 400px;
 	margin-left: auto;
-	padding-top: 75px;
+	padding-top: 140px;
 	text-align : center;
 	margin-right: auto;
 	
