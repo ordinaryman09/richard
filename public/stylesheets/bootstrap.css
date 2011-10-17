@@ -497,9 +497,12 @@ dl dd {
   margin-left: 9px;
 }
 hr {
-  margin: 20px 0 19px;
+
   border: 0;
   border-bottom: 1px solid #eee;
+  color: black;
+background-color: black;
+height: 2px;
 }
 strong {
   font-style: inherit;
@@ -2401,3 +2404,13 @@ padding-top: 70px;
 	font-size: 110%;
 	
 }
+
+.about {
+	
+	width: 640px;
+	font-size: 120%;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+
